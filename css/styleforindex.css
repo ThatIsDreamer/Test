@@ -1,0 +1,215 @@
+body
+{
+    margin: 0px;
+}
+header
+{
+    height: 150px;
+
+   
+}
+
+.mainLogo
+{
+    font-size: 48px;
+    position: absolute;
+    left: 20px;
+    font-family: 'Oxygen';
+    font-style: italic;
+    
+    
+    
+}
+.navButtons
+{
+    font-size: 20px;
+    position: absolute;
+    right: 20px;
+    margin-top: 70px;
+    font-family: sans-serif;
+    color:white;
+    
+    
+   
+
+    
+}
+.reg
+{
+    color: black;
+}
+
+
+.login
+{
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    padding: 5px 25px 5px 25px;
+    margin-right: 20px;
+    transition: 0.5s;
+    display: inline-block;
+
+}
+.login:hover
+{
+    transform: translate(0px,-5px);
+}
+main div
+{
+  text-align: center;
+}
+.maintxt
+{
+    font-family:  sans-serif;
+    font-size: 100px;
+}
+.desc
+{
+    font-family:  sans-serif;
+    font-size: 25px;
+    color: rgba(4, 4, 4, 0.384)
+}
+.try
+{
+    font-family:  sans-serif;
+    font-weight: 0.5;
+    
+    padding: 10px;
+
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    display: inline-block;
+    transition: 0.5s;
+
+  
+}
+.try:hover
+{
+    transform: translate(0px,-5px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.whatmakeSUS
+{
+    font-size: 48px;
+    font-family: sans-serif;
+    margin-top: 300px;
+}
+.divimages
+{
+    display: inline-block;
+    
+}
+.divimages img
+{
+   
+    margin: 0px 160px 0px 160px;
+    box-shadow: 12px 11px 32px 5px rgba(34, 60, 80, 0.25);
+}
+.steps
+{   
+    
+    margin: 40px 150px 0px 150px;
+    background-color: rgba(172, 172, 172, 0.658);
+    border: 0px solid white;
+    border-radius: 20px;
+}
+.circle1
+{
+    display: inline-block;
+    margin-left: 0px;
+    width: 30px;
+    height: 30px;
+    background-color: grey;
+    border-radius: 30px;
+}
+.circle2
+{
+    display: inline-block;
+    margin-left: 600px;
+    width: 30px;
+    height: 30px;
+    background-color: grey;
+    border-radius: 30px;
+}
+.circle3
+{
+    display: inline-block;
+    margin-left: 600px;
+    width: 30px;
+    height: 30px;
+    background-color: grey;
+    border-radius: 30px;
+}
+.stepnums
+{
+    display: inline-block;
+    font-family: sans-serif;
+    text-align: center;
+}
+.numbers
+{
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 50px;
+    color: rgba(0, 0, 0, 0.863)
+}
+.minidesk
+{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.438)
+    
+}
+footer
+{
+    margin-top: 200px;
+    background-color: black;
+    height: 200px;
+    margin-bottom: 0px;
+    color: white;
+
+
+}
+footer a
+{
+    display: inline-block;
+    font-family: sans-serif;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 1700px;
+    text-decoration: none;
+    color: inherit;
+    
+
+}
+
+
+
+
+
+
+
+/* 
+
+#     #                                                                   ### 
+#     # ###### #      #       ####     #    #  ####  #####  #      #####  ### 
+#     # #      #      #      #    #    #    # #    # #    # #      #    # ### 
+####### #####  #      #      #    #    #    # #    # #    # #      #    #  #  
+#     # #      #      #      #    #    # ## # #    # #####  #      #    #     
+#     # #      #      #      #    #    ##  ## #    # #   #  #      #    # ### 
+#     # ###### ###### ######  ####     #    #  ####  #    # ###### #####  ### 
+                                                                              
+
+*/
